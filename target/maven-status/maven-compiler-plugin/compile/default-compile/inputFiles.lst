@@ -1,0 +1,17 @@
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/mapper/UserDetailsMapper.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/dto/KYCDetailsDTO.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/entitiy/AccountInformation.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/services/AccountInformationService.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/repository/KYCRepository.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/entitiy/KYCDetails.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/exception/KYCValidationException.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/controller/KYCDetailsController.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/exception/KYCExceptionHandler.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/entitiy/GuardianDetails.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/dto/UserDetailsDTO.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/ZingKycServiceApplication.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/exception/KYCNotFoundException.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/mapper/KYCDetailsMapper.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/entitiy/UserDetails.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/repository/UserRepository.java
+/Users/Sourabh/My Documents/HCL/ZingKYCService/src/main/java/com/hcl/zing/zingkycservice/services/KYCDetailsService.java
