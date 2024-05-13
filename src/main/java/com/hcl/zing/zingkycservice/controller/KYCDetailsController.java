@@ -1,15 +1,12 @@
 package com.hcl.zing.zingkycservice.controller;
 
 import com.hcl.zing.zingkycservice.dto.KYCDetailsDTO;
-import com.hcl.zing.zingkycservice.entitiy.KYCDetails;
-import com.hcl.zing.zingkycservice.repository.UserRepository;
 import com.hcl.zing.zingkycservice.services.KYCDetailsService;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/kyc")
